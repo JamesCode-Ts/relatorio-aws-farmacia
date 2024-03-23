@@ -18,7 +18,7 @@ Etapa 1:
   Com o EC2, os usuários podem provisionar e gerenciar instâncias de servidores em uma variedade de tipos de computação, desde instâncias com recursos computacionais otimizados até instâncias com 
   foco em memória ou armazenamento.
 
-- Vamos considerar um cenário em que a Abstergo Industries não tenha capital para custear um Data Center, que seria um custo monetário muito elevado no momento,tanto para construir, manter e fazer upgrades. Dessa forma,utilizando o Amazon EC2, a farmacêutica elimina a necessidade de investir em servidores físicos e infraestrutura. 
+- Vamos considerar um cenário em que a Abstergo Industries não tenha capital para custear um Data Center, que seria um custo monetário muito elevado no momento, tanto para construir, manter e fazer upgrades. Dessa forma,utilizando o Amazon EC2, a farmacêutica elimina a necessidade de investir em servidores físicos e infraestrutura. 
 Em vez disso, ela paga apenas pelos recursos de computação que realmente utiliza, o que pode resultar em economia de custos significativa a longo prazo.
 
 Etapa 2: 
